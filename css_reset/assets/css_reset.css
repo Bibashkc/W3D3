@@ -1,0 +1,14 @@
+html,body,header,nav,section,article,aside,figure,img,h1,h2,ul,ol,footer{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font :inherit;
+    list-style: inherit;
+}
+body{
+    line-height: 1.5em;
+}
+
+img{
+    width: inherit;
+}
